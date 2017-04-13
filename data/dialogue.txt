@@ -1,0 +1,15 @@
+Prince Aldric:
+        "My father is cursed by some dark magic, I have to be by his side, can you please seek out the Elixir of Life."
+        "The elixir! My father is cured! Thankyou!"
+        "I wish I can kill the bastard that did this to my father!"
+Elvira:
+        "Return to me if you ever need healing."
+        "You're looking much healthier now."
+        "Oh its a lovely day!"
+Garth:
+        "Find the Amulet of Vitality, across the river to the west."
+        "Find the Sword of Strength - cross the river and back, on the east side."
+        "Find the Tome of Agility, in the Land of Shadows."
+        "You have found all the treasure I know of."
+        "Good Day to you Sir!"
+End:

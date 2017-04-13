@@ -1,0 +1,4 @@
+Amulet of Vitality   80      965 3563
+Sword of Strength 30       4791 1253
+Tome of Agility 300     546 6707
+Elixir of Life    0     1976 402

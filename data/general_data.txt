@@ -1,0 +1,9 @@
+(Player)          100     26      600	50
+Prince Aldric             1       0       0	50
+Elvira          1       0       0	50
+Garth            1       0       0	0
+Giant Bat  40      0       0	50
+Death Blade  60      10      800	50
+Bandit   40      8       500	50
+Skeleton    100     16      500	50
+Draelic   140     30      400	150
